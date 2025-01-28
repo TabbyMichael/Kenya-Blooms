@@ -1,6 +1,6 @@
 # KenyaBlooms 🌸
 
-[<img src="public/assets/home.png" alt="KenyaBlooms Banner" width="100%">]
+<img src="public/assets/home.png" alt="KenyaBlooms Banner" width="100%">
 
 KenyaBlooms is a premium online flower delivery platform that brings the vibrant beauty of Kenyan flowers to the world stage. Our platform connects local farmers with global flower enthusiasts, offering fresh, sustainably grown flowers delivered right to your doorstep.
 
@@ -10,7 +10,7 @@ KenyaBlooms is a premium online flower delivery platform that brings the vibrant
   - World-famous Kenyan roses
   - Wedding collections
   - Seasonal favorites
-  [<img src="public/assets/shop.png" alt="Flower Collections" width="100%">]
+  <img src="public/assets/shop.png" alt="Flower Collections" width="100%">
 
 - 🛒 **Seamless Shopping Experience**
   - User-friendly interface
@@ -56,7 +56,7 @@ yarn dev
 
 ## 🔄 How It Works
 
-[<img src="public/assets/hero.png" alt="KenyaBlooms Process" width="100%">]
+<img src="public/assets/hero.png" alt="KenyaBlooms Process" width="100%">
 
 Our streamlined process ensures you get the freshest flowers with minimal environmental impact:
 1. Direct sourcing from local Kenyan farmers
@@ -66,7 +66,7 @@ Our streamlined process ensures you get the freshest flowers with minimal enviro
 
 ## 💐 Featured Collections
 
-[<img src="public/assets/Auth.png" alt="Featured Flower Collections" width="100%">]
+<img src="public/assets/Auth.png" alt="Featured Flower Collections" width="100%">
 
 Discover our most popular arrangements:
 - Luxury Rose Bouquets
@@ -76,7 +76,7 @@ Discover our most popular arrangements:
 
 ## 💝 Customer Love
 
-[<img src="public/assets/shop.png" alt="Customer Reviews" width="100%">]
+<img src="public/assets/shop.png" alt="Customer Reviews" width="100%">
 
 Join thousands of satisfied customers who have experienced the beauty of Kenyan flowers:
 - "Absolutely stunning roses! The freshness and quality are unmatched." - Sarah M.
@@ -105,7 +105,7 @@ Kenya-Blooms/
 
 ## 🌿 Environmental Impact
 
-[<img src="public/assets/cart.png" alt="Sustainable Practices" width="100%">]
+<img src="public/assets/cart.png" alt="Sustainable Practices" width="100%">
 
 We're committed to sustainable practices:
 - Eco-friendly packaging
